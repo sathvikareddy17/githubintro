@@ -1,0 +1,7 @@
+shopping list.txt
+
+apples
+bananas
+mangoes
+oranges
+grapes
